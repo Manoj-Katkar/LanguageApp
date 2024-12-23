@@ -1,0 +1,23 @@
+{
+    "login": "लॉगिन करा",
+    "signup": "साइन अप करा",
+    "username": "वापरकर्तानाव",
+    "password": "पासवर्ड",
+    "email": "ईमेल",
+    "confirmPassword": "पासवर्डची पुष्टी करा",
+    "welcome": "स्वागत आहे",
+    "signInHeadline": "सुरू ठेवण्यासाठी साइन इन करा!",
+    "forgotPassword": "पासवर्ड विसरलात का?",
+    "emailRequired": "ईमेल आवश्यक आहे",
+    "passwordRequired": "पासवर्ड आवश्यक आहे",
+    "createNewUser": "नवीन खाती तयार करा",
+    "createAccount": "खाते तयार करा",
+    "signupHeadline": "सुरू करण्यासाठी साइन अप करा",
+    "alreadyUser": "माझ्याकडे आधीच खाते आहे",
+    "usernameRequired": "वापरकर्तानाव आवश्यक आहे",
+    "confirmPasswordRequired": "पासवर्डची पुष्टी आवश्यक आहे",
+    "invalidEmail": "अवैध ईमेल आयडी",
+    "minPasswordLength": "पासवर्ड किमान 6 अक्षरांचा असावा",
+    "passwordMustMatch": "पासवर्ड जुळावा",
+    "selectLanguage": "भाषा निवडा"
+}
